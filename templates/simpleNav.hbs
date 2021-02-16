@@ -1,0 +1,21 @@
+{{import_globals}}
+
+<div class="component__inner simplenav__inner">
+
+  {{> component this}}
+
+  <div class="component__widget simplenav__widget">
+
+    <div class="simplenav__btn-container">
+
+      {{#each _items}}
+      <button class="btn-text simplenav__btn js-simplenav-btn-click" role="link" data-gotoid="{{_goToId}}">
+        {{{text}}}
+      </button>
+      {{/each}}
+
+    </div>
+
+  </div>
+
+</div>

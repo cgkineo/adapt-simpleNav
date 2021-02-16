@@ -1,0 +1,30 @@
+    {
+        "_id": "c-05",
+        "_parentId": "b-05",
+        "_type": "component",
+        "_component": "simpleNav",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Simple Nav",
+        "displayTitle": "Simple Nav",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut egestas sed est vel feugiat. Aenean pellentesque ligula tortor, eget convallis eros convallis in.",
+        "instruction": "Select an option and see the outcome.",
+        "_items": [
+            {
+                "text": "Go to page",
+                "_goToId": "co-100"
+            },
+            {
+                "text": "Go to component",
+                "_goToId": "c-200"
+            },
+            {
+                "text": "Go to menu",
+                "_goToId": "course"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_isA11yCompletionDescriptionEnabled": false
+    }

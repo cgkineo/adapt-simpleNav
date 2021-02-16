@@ -1,0 +1,16 @@
+{
+  "name": "adapt-simpleNav",
+  "version": "0.0.1",
+  "framework": ">=5.7",
+  "homepage": "https://github.com/cgkineo/adapt-simpleNav",
+  "issues": "https://github.com/cgkineo/adapt-simpleNav/issues/",
+  "component": "simpleNav",
+  "displayName": "Simple Nav",
+  "description": "A simple page navigation button component",
+  "main": "/js/adapt-simpleNav.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPL-3.0"
+}
